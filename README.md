@@ -1,7 +1,7 @@
 # Вниманию преподавателя
 
 ## Со времен работы с java пользуюсь intellij IDEA. Поэтому проект выглядит так.
-## Vue код в файле src/App.vue
+## [Vue код в файле src/App.vue](https://github.com/ElenaMalkova/Vue_HomeWorks/blob/master/src/App.vue)
 ## Посмотреть работу кода можно в Файле [vue_app.html](https://github.com/ElenaMalkova/Vue_HomeWorks/blob/master/vue_app.html)
 ## На этот файл есть ссылка из верстки верстальной части ДЗ (меню наверху)
 
