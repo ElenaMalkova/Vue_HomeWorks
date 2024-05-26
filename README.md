@@ -1,3 +1,12 @@
+# Вниманию преподавателя
+
+## Со времен работы с java пользуюсь intellij IDEA. Поэтому проект выглядит так.
+## Vue код в файле src/App.vue
+## Посмотреть работу кода можно в Файле vue_app.html
+## На этот файл есть ссылка из верстки верстальной части ДЗ (меню наверху)
+
+
+
 # starting_vue
 
 This template should help get you started developing with Vue 3 in Vite.
